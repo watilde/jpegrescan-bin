@@ -1,5 +1,5 @@
 {
-  "name": "jpegrescan-bin",
+  "name": "jpegrescan",
   "version": "0.0.1",
   "description": "jpegrescan bin-wrapper that makes it seamlessly available as a local dependency ",
   "main": "index.js",
